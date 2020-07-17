@@ -1,0 +1,24 @@
+#accordion-section-menus_color_palette {
+  margin-bottom: 20px;
+}
+
+#accordion-section-dummy_section {
+  visibility: hidden;
+}
+
+.customizer-separator {
+  text-align: center;
+      padding: 6px 12px;
+      background-color: #f7f7f7;
+      margin-top: 15px;
+      width: auto;
+      display: block;
+      margin-bottom: 10px;
+      border: 1px #cecece solid;
+}
+
+.customizer-separator .customize-control-title {
+  text-transform: uppercase;
+    margin-bottom: 0px;
+    font-size: 14px;
+}
